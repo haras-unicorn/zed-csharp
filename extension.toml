@@ -6,8 +6,8 @@ schema_version = 1
 authors = ["fminkowski <fminkowski@gmail.com>"]
 repository = "https://github.com/zed-extensions/csharp"
 
-[language_servers.omnisharp]
-name = "OmniSharp"
+[language_servers.csharp-ls]
+name = "csharp-ls"
 language = "CSharp"
 
 [grammars.c_sharp]

@@ -3,9 +3,24 @@
 #
 
 *.wasm
+/data
+/grammars
 
 #
 # Rust
 #
 
 /target
+
+#
+# direnv
+#
+
+/.direnv
+
+#
+# csharp
+# 
+
+**/bin/**
+**/obj/**
